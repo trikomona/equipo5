@@ -1,2 +1,3 @@
 # equipo5
-practica para compartir permisos en el repositorio 2
+practica para compartir permisos en el repositorio 2oioioi
+
